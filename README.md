@@ -21,6 +21,6 @@
 接著，這本書以問題為本，協助讀者提出問題並解決問題，共有262個問題，其中包含147個範例和115個習題。
 
 最後，它強調了編輯中英文索引，610個專有名詞涵蓋Java有關網路程式的名詞，幫助中英文讀者相互參考。整體來說，這本書專注於 Java 網路程式設計、Java 網路串流導引與 Java 網路資料傳遞，是建立網路基礎能力的好幫手。
-https://github.com/SuWeizhe1124/JAVA-web-program/blob/main/JAVA%20cover.jpg?raw=true
-  [![N|Solid](https://github.com/SuWeizhe1124/JAVA-web-program/blob/main/JAVA%20cover.jpg?raw=true)]([[http://ewin.tw/python](https://github.com/SuWeizhe1124/JAVA-web-program)](https://github.com/SuWeizhe1124/2048))
-[![N|Solid]()()
+
+[![N|Solid](https://github.com/SuWeizhe1124/JAVA-web-program/blob/main/JAVA%20cover.jpg?raw=true)](https://github.com/SuWeizhe1124/JAVA-web-program)
+
